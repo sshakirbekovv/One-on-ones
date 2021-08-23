@@ -1,0 +1,18 @@
+.RaykhanMain {
+    background: url(../../assets/images/raykhan.jpg) no-repeat center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25rem;
+    height: 25rem;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 480px) {  
+
+    .RaykhanMain { 
+        width: 15rem;
+        height: 15rem;
+    }
+}

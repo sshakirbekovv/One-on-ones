@@ -1,0 +1,94 @@
+.common {
+    height: 100%;
+}
+
+.common__title {
+    text-align: center;
+    padding: 0 0 1.5rem 0;
+    color: #444F59;
+    font-size: 1.8rem !important;
+}
+
+.speciality {
+    color: #4a4a4a;
+    font-family: 'Inter-Medium';
+}
+
+.name {
+    font-family: 'Inter-Bold';
+    font-size: 1.25rem;
+}
+
+.card {
+    padding: 1.25rem;
+    border: solid 1px #eeeeee;
+    background: #FFFFFF;
+    margin-bottom: 1rem;
+    color: #333333;
+    transition: all .3s ease-in-out;
+
+    &:hover {
+        border: 1px solid #007bca;
+    }
+}
+
+.card__header-img {
+    background: url(../../assets/images/nazerke.jpg) no-repeat center center;
+    background-size: cover;
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+}
+
+a {
+
+    p {
+        font-size: 2rem;
+        color: #444F59;
+        font-family: 'Inter-Medium';
+        margin-top: 1rem;
+    }
+}
+
+.card__body-list {
+
+    li {
+        display: flex;
+        align-items: center;
+        margin-bottom: .8rem;
+        font-size: .875rem;
+
+        i {
+            width: 1.5rem;
+            color: #878787;
+        }
+
+        div {
+            font-size: 10px;
+            font-weight: bold;
+            color: #ffffff;
+            background-color: #28ad7e;
+            padding: 3px 8px;
+            text-transform: uppercase;
+            border-radius: 0.125rem;
+            height: 20px;
+            display: inline-block;
+        }
+    }
+}
+
+.raikhan {
+    background: url(../../assets/images/raykhan.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+@media screen and (max-width: 480px) {  
+
+    .name {
+       font-size: .95rem;
+    }
+
+    .speciality {
+        font-size: .875rem;
+    }
+}

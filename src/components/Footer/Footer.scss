@@ -1,0 +1,55 @@
+footer {    
+    padding: 2.8rem 0;
+    margin-top: 7rem;
+
+    div {
+        color: #21243D;
+    }
+
+    ul {
+        display: flex;
+        margin-bottom: 0 !important;
+
+        li {
+
+            a {
+                color: rgba(0, 0, 0, 0.38);
+                letter-spacing: 0.0043em;
+                cursor: pointer;
+            }
+        }
+    }
+
+    .ontop {
+        border-radius: 12px;
+        padding: .8rem 2rem;
+        background: #FFFFFF;
+        letter-spacing: 0.0043em;
+        color: rgba(0, 0, 0, 0.87);
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width: 480px) { 
+
+    .flex-col {
+        flex-direction: column;
+    }
+
+    footer {  
+        margin-top: 0;
+
+        div {
+            order: 2;
+        }
+
+        ul {
+            order: 0;
+        }
+
+        a {
+            order: 1;
+            margin: 42px 0 35px 0;
+        }
+    }
+}
