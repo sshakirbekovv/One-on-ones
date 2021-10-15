@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Консультации от Алии",
+        "list": [
+            {
+                "title": "– Программист в Google DeepMind в Лондоне"
+            },
+            {
+                "title": "Budapest University of Technology and Economics 21’"
+            },
+            {
+                "title": "Middle East Technical University 17’"
+            }
+        ],
+        "link": "https://calendly.com/aliya-rysbek/consultation",
+        "accomplishmentlists": [
+            {
+                "accomplishments": [
+                    {
+                        "title": "Про меня:"
+                    },
+                    {
+                        "title": "• Программист в Google DeepMind в Лондоне"
+                    },
+                    {
+                        "title": "• Got 5 FTE offers (DeepMind, Facebook, Bloomberg, IBM, Cisco), 70+ rejections, 8 onsite interviews"
+                    },
+                    {
+                        "title": "• Reviewed 50+ tech CVs, conducted 70+ mock interviews"
+                    },
+                    {
+                        "title": "• Software Engineer Intern, Bloomberg (Frankfurt, Germany), 2020"
+                    },
+                    {
+                        "title": "• Web Developer Intern, IBM (Budapest, Hungary), 2017-2019"
+                    },
+                    {
+                        "title": "• Full governmental scholarship holder MSc in CS (Budapest, Hungary), 2017-2020 and BSc in CS (Ankara, Turkey), 2012-2017"
+                    },
+                    {
+                        "title": "• Speaker at GDG Russia IWD conference, 2021"
+                    },
+                    {
+                        "title": "• Google Get Ahead invite-only program participant, 2019"
+                    },
+                    {
+                        "title": "• Technovation mentor 2016, 2017"
+                    }
+                ]
+            }
+        ]
+    }
+]

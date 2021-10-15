@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Консультации от Назерке",
+        "list": [
+            {
+                "title": "– Основатель стартапа L’accent"
+            },
+            {
+                "title": "– Бывший программист Гугла и аналитик венчурных инвестиций"
+            }
+        ],
+        "link": "https://calendly.com/nazerke/consultation",
+        "accomplishmentlists": [
+            {
+                "accomplishments": [
+                    {
+                        "title": "Ранее прошла на "
+                    },
+                    {
+                        "title": "- программу Google CodeU, London UK 2015"
+                    },
+                    {
+                        "title": "- хакатон от Booking.com в качестве одного из победителей соревнования по программированию (Booking WomenInTech Contest - 6th/1000+, Amsterdam, Netherlands 2016)"
+                    },
+                    {
+                        "title": "- крупнейшую в мире конференцию для девушек в IT - Grace Hopper Celebration of Women in Computing(GHC)"
+                    },
+                    {
+                        "title": " • в качестве стипендиата от американской организации Anita Borg (организаторы GHC) - Orlando, FL, USA 2017"
+                    }
+                ]
+            },
+            {
+                "accomplishments": [
+                    {
+                        "title": "Научная работа:"
+                    },
+                    {
+                        "title": "Опубликовала 4 научные статьи и выступила с ними в Сингапуре, Японии и США (Чикаго)"
+                    },
+                    {
+                        "title": "- ICRA (International Conference in Robotics and Automation)"
+                    },
+                    {
+                        "title": "- ICSR (International Conference in Social Robotics)"
+                    },
+                    {
+                        "title": "- HRI (International Conference in Human-Robot Interaction)"
+                    }
+                ]
+            },
+            {
+                "accomplishments": [
+                    {
+                        "title": "Образование:"
+                    },
+                    {
+                        "title": "РФМШ им Жаутыкова, выпуск 2013"
+                    },
+                    {
+                        "title": "• призёр и победитель республиканских и международных олимпиад по программированию"
+                    },
+                    {
+                        "title": "Назарбаев Университет, выпуск 2018"
+                    },
+                    {
+                        "title": "• степень бакалавра компьютерных наук [BS in Computer Science]"
+                    },
+                    {
+                        "title": "Московский Физико-Технический Институт"
+                    },
+                    {
+                        "title": "• магистратура по специальности «Искусственный Интеллект»"
+                    }
+                ]
+            }
+        ]
+    }
+]

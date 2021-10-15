@@ -1,14 +1,3 @@
-.common {
-    height: 100%;
-}
-
-.common__title {
-    text-align: center;
-    padding: 0 0 1.5rem 0;
-    color: #444F59;
-    font-size: 1.8rem !important;
-}
-
 .speciality {
     color: #4a4a4a;
     font-family: 'Inter-Medium';
@@ -33,8 +22,6 @@
 }
 
 .card__header-img {
-    background: url(../../assets/images/nazerke.jpg) no-repeat center center;
-    background-size: cover;
     width: 72px;
     height: 72px;
     border-radius: 50%;
@@ -75,11 +62,6 @@ a {
             display: inline-block;
         }
     }
-}
-
-.raikhan {
-    background: url(../../assets/images/raykhan.jpg) no-repeat center center;
-    background-size: cover;
 }
 
 @media screen and (max-width: 480px) {  

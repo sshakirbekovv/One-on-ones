@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Консультации от Райхан",
+        "list": [
+            {
+                "title": "– Программист в Фейсбуке в Лондоне"
+            },
+            {
+                "title": "– Выпускник Назарбаев Университета"
+            }
+        ],
+        "link": "https://calendly.com/raihassen/consultation",
+        "accomplishmentlists": [
+            {
+                "accomplishments": [
+                    {
+                        "title": "Про меня:"
+                    },
+                    {
+                        "title": "• Программист в Фейсбуке в Лондоне"
+                    },
+                    {
+                        "title": "• Стажировалась в Гугле(2016), стартапе ParkFlyRent(2017), Facebook(2018)"
+                    },
+                    {
+                        "title": "• Выпускник Назарбаев Университета, занималась научной деятельностью (публикация: Saudabayev, A., Rysbek, Z., Khassenova, R. et al. Human grasping database for activities of daily living with depth, color and kinematic data streams. Sci Data 5, 180101 (2018). https://doi.org/10.1038/sdata.2018.101 )"
+                    }
+                ]
+            }
+        ]
+    }
+]
